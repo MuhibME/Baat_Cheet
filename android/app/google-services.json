@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583617385281",
+    "project_id": "baat-cheet-29c21",
+    "storage_bucket": "baat-cheet-29c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583617385281:android:5cae9eac9a2382125847c0",
+        "android_client_info": {
+          "package_name": "com.example.baat_cheet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_sUySn4oq-vRobsXJCMLLuKXvGVllo6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
